@@ -3,7 +3,7 @@
 int main ()
 {
 
-printf("hallo world\n"); 
+printf("AMIT"); 
 
 return 0 ;
 }
