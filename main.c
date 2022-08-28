@@ -2,10 +2,8 @@
 
 int main ()
 {
-
-printf("hallo world\n"); 
-printf("hallo world\n"); 
-printf("hallo world\n"); 
+for (int i=0;i<5;i++)
+printf("%d\n",i);
 
 return 0 ;
 }
